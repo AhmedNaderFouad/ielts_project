@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008952228130",
+    "project_id": "ielts-project-2f836",
+    "storage_bucket": "ielts-project-2f836.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008952228130:android:15be23e4c7f9fe7a958d7b",
+        "android_client_info": {
+          "package_name": "com.example.ielts_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzX---M3JQQwNKPTqxYKUqR34e9T-skA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
