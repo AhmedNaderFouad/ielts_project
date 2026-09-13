@@ -1,0 +1,14 @@
+{
+  "gettingStarted": "Getting Started",
+  "welcome": "Welcome",
+  "welcomeTitle": "Welcome to IELTS for all learners",
+  "welcomeSubtitle": "Your personalized companion for mastering Listening, Reading, Writing, and Speaking with AI-driven band diagnostics.",
+  "continueButton": "Continue",
+  "selectLanguage": "Select Language",
+  "english": "English",
+  "arabic": "العربية",
+  "lightMode": "Light Mode",
+  "darkMode": "Dark Mode",
+  "systemDefault": "System Default",
+  "settingsNote": "You can change these options anytime later in Settings."
+}

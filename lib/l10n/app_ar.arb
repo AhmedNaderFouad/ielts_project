@@ -1,0 +1,14 @@
+{
+  "gettingStarted": "البداية",
+  "welcome": "ترحيب",
+  "welcomeTitle": "مرحباً بك في IELTS لكل المتعلمين",
+  "welcomeSubtitle": "رفيقك الشخصي لإتقان الاستماع والقراءة والكتابة والمحادثة مع تشخيصات الدرجات الذكية.",
+  "continueButton": "متابعة",
+  "selectLanguage": "اختر اللغة",
+  "english": "English",
+  "arabic": "العربية",
+  "lightMode": "الوضع الفاتح",
+  "darkMode": "الوضع الداكن",
+  "systemDefault": "حسب النظام",
+  "settingsNote": "يمكنك تغيير هذه الخيارات في أي وقت لاحقاً من الإعدادات."
+}
